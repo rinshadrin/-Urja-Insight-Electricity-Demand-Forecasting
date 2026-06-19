@@ -240,7 +240,7 @@ streamlit run app.py
 
 🔗 GitHub: https://github.com/rinshadrin
 
-🔗 LinkedIn: https://www.linkedin.com/in/muhammed-rinshad
+🔗 LinkedIn: www.linkedin.com/in/muhammad-rinshad-80760437a
 
 ---
 
